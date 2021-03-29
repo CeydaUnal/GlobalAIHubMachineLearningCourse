@@ -13,9 +13,9 @@ what I learned during the course
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Scikit-Learn
+Python
+Machine Learning Algorithms
 ```
 ---
 
