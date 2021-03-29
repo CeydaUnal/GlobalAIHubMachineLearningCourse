@@ -20,5 +20,5 @@ Machine Learning Algorithms
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](30763148435629.png)
 
